@@ -91,15 +91,15 @@ DIVIDE(
 ### Key Insights & Findings
 ![Key Insights & Findings](images/dashboard_page3.png)
 
-## Key Insights & Findings
+## Key Insights and Findings
 
-**Strong Sales, Modest Profitability: ** Despite generating strong sales revenue, the business achieved an overall profit margin of only **approximately 12.5%**, indicating that revenue growth did not translate into equally strong profitability.
+**Strong Sales, Modest Profitability:** Despite generating strong sales revenue, the business achieved an overall profit margin of only **approximately 12.5%**, indicating that revenue growth did not translate into equally strong profitability.
 
-**High Discounts Reduce Profit: ** Orders with discounts above **approximately 20%** were associated with declining profitability, with the highest discount bands generating negative total profit.
+**High Discounts Reduce Profit:** Orders with discounts above **approximately 20%** were associated with declining profitability, with the highest discount bands generating negative total profit.
 
-**Furniture Has the Lowest Profitability: ** Compared with Technology and Office Supplies, the **Furniture** category recorded significantly lower profit margins, suggesting opportunities to improve pricing and discount strategies.
+**Furniture Has the Lowest Profitability:** Compared with Technology and Office Supplies, the **Furniture** category recorded significantly lower profit margins, suggesting opportunities to improve pricing and discount strategies.
 
-**Tables and Bookcases Are Major Sources of Profit Leakage: ** Within the Furniture category, **Tables** and **Bookcases** contributed the most to financial losses and should be prioritized for corrective action.
+**Tables and Bookcases Are Major Sources of Profit Leakage:** Within the Furniture category, **Tables** and **Bookcases** contributed the most to financial losses and should be prioritized for corrective action.
 
 ## Recommendations
 - Review and limit discounts above approximately 20% to reduce unnecessary profit erosion.
