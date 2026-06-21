@@ -21,13 +21,14 @@ The dashboard was designed to:
 
 ## Dataset Overview
 The dataset represents a fictional retail company and is structured using multiple related tables designed to simulate real-world business data.
-**Orders: ** Contains detailed transactional records including: Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Location ID, Product ID, Sales, Quantity, Discount, Profit.
 
-**Customers: ** 
+**Orders:** Contains detailed transactional records including: Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Location ID, Product ID, Sales, Quantity, Discount, Profit.
+
+**Customers:** 
 -  Contains customer information including: Customer ID, Customer Name, Customer Segment.
 -  Customer segments include: Consumer, Corporate, Home Office.
 
-**Products: ** 
+**Products:** 
 -  Contains Product information including: Product ID, Product Name, Category, Sub-Category, Pricing Code.
 - Product categories include: Technology, Office Supplies, Furniture.
 
@@ -39,14 +40,14 @@ The dataset represents a fictional retail company and is structured using multip
 
 # Data Preparation and Cleaning
 The following data preparation steps were completed:
-- Imported the Orders, Products, and Customers tables.
-- Promoted headers where required.
-- Verified data types across all columns.
-- Confirmed there were no missing or error values.
-- Reviewed column distributions and uniqueness.
-- Validated key fields used for relationships.
-- Created a Date Table for time intelligence analysis.
-- Created calculated columns for Discount Bands and custom sorting.
+1. Imported the Orders, Products, and Customers tables.
+2. Promoted headers where required.
+3. Verified data types across all columns.
+4. Confirmed there were no missing or error values.
+5. Reviewed column distributions and uniqueness.
+6. Validated key fields used for relationships.
+7. Created a Date Table for time intelligence analysis.
+8. Created calculated columns for Discount Bands and custom sorting.
 
 ## Data Modeling
 A star-schema data model was implemented to support efficient analysis and reporting.
