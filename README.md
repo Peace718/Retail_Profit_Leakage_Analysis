@@ -1,6 +1,21 @@
 # The Discount Trap: How Discounts Impact Retail Profitability
 ### A Power BI Analysis of Discount-Driven Profit Leakage and Profitability Improvement Opportunities
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset Overview](#dataset-overview)
+- [Tools and Technologies](#tools-and-technologies)
+- [Data Preparation and Cleaning](#data-preparation-and-cleaning)
+- [Data Modeling](#data-modeling)
+- [DAX Measures and KPIs](#dax-measures-and-kpis)
+- [Dashboard Design](#dashboard-design)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Project Files](#project-files)
+
 ## Project Overview
 This project investigates how discounting affects retail profitability using an interactive Power BI dashboard.
 Although the business generates strong sales revenue, management is concerned that excessive discounting may be reducing profits across products and categories. The dashboard analyzes sales performance, profit trends, discount behavior, and product profitability to identify areas of profit leakage and support data-driven pricing decisions.
@@ -90,7 +105,6 @@ DIVIDE(
 ![Profit Leakage Analysis](images/dashboard_page2.png)
 ### Key Insights & Findings
 ![Key Insights & Findings](images/dashboard_page3.png)
-
 ## Key Insights and Findings
 
 **Strong Sales, Modest Profitability:** Despite generating strong sales revenue, the business achieved an overall profit margin of only **approximately 12.5%**, indicating that revenue growth did not translate into equally strong profitability.
