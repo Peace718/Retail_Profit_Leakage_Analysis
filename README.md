@@ -127,9 +127,9 @@ This analysis demonstrates that strong sales performance alone does not guarante
 By adopting a more strategic approach to discounting and focusing on the products driving losses, management can improve profit margins while maintaining sustainable sales growth.
 
 ## Project Files
-- ![Power BI Report (.pbix)](retail_profit_leakage_analysis.pbix)
-- ![Project Report(pdf)](project_report.pdf)
-- ![ Dataset (.xlsx)](retail_profit_analysis_dataset.xlsx)
+- ![Power BI Report (.pbix)]( retail_profit_leakage_analysis.pbix)
+- ![Project Report(pdf)]( project_report.pdf)
+- ![ Dataset (.xlsx)]( retail_profit_analysis_dataset.xlsx)
 
 
 
