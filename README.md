@@ -112,7 +112,7 @@ DIVIDE(
 This analysis demonstrates that strong sales performance alone does not guarantee healthy profitability. The findings show that excessive discounting and underperforming product categories contribute significantly to profit leakage, particularly within the Furniture category and its Tables and Bookcases sub-categories.
 By adopting a more strategic approach to discounting and focusing on the products driving losses, management can improve profit margins while maintaining sustainable sales growth.
 
-# Project Files
+## Project Files
 
 - Power BI Report (`.pbix`)
 - Project Report (`.pdf`)
