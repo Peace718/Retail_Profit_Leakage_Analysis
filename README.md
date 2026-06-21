@@ -22,9 +22,11 @@ The dashboard was designed to:
 ## Dataset Overview
 The dataset represents a fictional retail company and is structured using multiple related tables designed to simulate real-world business data.
 **Orders: ** Contains detailed transactional records including: Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Location ID, Product ID, Sales, Quantity, Discount, Profit.
+
 **Customers: ** 
 -  Contains customer information including: Customer ID, Customer Name, Customer Segment.
 -  Customer segments include: Consumer, Corporate, Home Office.
+
 **Products: ** 
 -  Contains Product information including: Product ID, Product Name, Category, Sub-Category, Pricing Code.
 - Product categories include: Technology, Office Supplies, Furniture.
@@ -48,9 +50,10 @@ The following data preparation steps were completed:
 
 ## Data Modeling
 A star-schema data model was implemented to support efficient analysis and reporting.
+
 ![Data Model](images/data_model.png)
 
-# DAX Measures & KPIs
+## DAX Measures and KPIs
 Key measures created include:
 - Total Sales
 - Total Profit
